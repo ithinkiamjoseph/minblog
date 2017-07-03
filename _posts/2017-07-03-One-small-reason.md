@@ -4,7 +4,7 @@ title:      "One small reason iCloud can’t fully replace Dropbox for me."
 subtitle:   ""
 date:       2017-07-03 14:00:00
 author:     "Joseph"
-header-img: "img/post-bg-01.jpg"
+header-img: ""
 ---
 
 I love Dropbox and I love iCloud. Recently iCloud made a random change that Apple usually doesn’t do. They became the cheaper option. 
