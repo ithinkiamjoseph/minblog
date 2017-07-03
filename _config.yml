@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Joseph Wood"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /asses/images/character.png # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I'm obsessed with a lot of different things."
   location         : "Georgia"
   email            :
