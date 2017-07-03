@@ -1,5 +1,5 @@
 ---
-layout:     default
+layout:     single
 title:      "One small reason iCloud can’t fully replace Dropbox for me."
 subtitle:   ""
 date:       2017-07-03 14:00:00
