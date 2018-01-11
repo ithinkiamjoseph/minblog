@@ -1,0 +1,60 @@
+---
+pages:
+- _posts/2017-07-03-One-small-reason.md
+hide_body: false
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: single
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: subtitle
+  label: Subtitle
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: author
+  label: Author
+  type: text
+  hidden: false
+  default: ''
+- name: header-img
+  label: Header img
+  type: text
+  hidden: false
+  default: ''
+- name: author_profile
+  label: Author profile
+  type: boolean
+  hidden: false
+  default: true
+- name: read_time
+  label: Read time
+  type: boolean
+  hidden: false
+  default: true
+- name: comments
+  label: Comments
+  type: text
+  hidden: false
+  default: 
+- name: share
+  label: Share
+  type: boolean
+  hidden: false
+  default: true
+- name: related
+  label: Related
+  type: boolean
+  hidden: false
+  default: true
